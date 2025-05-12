@@ -1,5 +1,5 @@
 #  Raghad Alharthi
 
-- Senior **CS** student at **IAU**
+- Fresh graduate **CS** student
 - intersted in web, games, applications development.
 - contact me : Raghadd.alharthi@gmail.com
